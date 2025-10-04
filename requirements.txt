@@ -1,0 +1,22 @@
+# Discord Bot Dependencies
+discord.py>=2.3.0
+python-dotenv>=1.0.0
+
+# RAG and AI Dependencies
+langchain>=0.1.0
+langchain-google-genai>=1.0.0
+langchain-community>=0.0.20
+langchain-chroma>=0.1.0
+
+# Document Processing
+docling>=1.0.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# Embeddings
+sentence-transformers>=2.2.0
+
+# Additional utilities
+pydantic>=2.0.0
+

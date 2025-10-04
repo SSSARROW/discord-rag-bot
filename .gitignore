@@ -1,0 +1,5 @@
+.env
+docs/
+bot.log
+chroma_db/
+.venv/
